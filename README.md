@@ -23,7 +23,7 @@ Outside of that, I like maps, history, philosophy, writing, and the occasional g
 
 - **Master's thesis at Statistics Netherlands (CBS):** looking at machine-learning approaches to automatic editing of business survey data. I'm part of the Methodology Department in The Hague.
 - **Research at Utrecht University:** recently worked on multilevel missing-data methods, including a custom `mice` imputation function using `glmmTMB` and a simulation study of how it performs.
-- **Next, starting November 2026:** a research student-assistant role at Utrecht University, looking at mixed-language speech recognition in LENA recordings using Whisper and BabyHuBERT.
+- **Next, starting November 2026:** a research student-assistant role at Utrecht University, looking at mixed-language speech recognition.
 - **After hours:** working on small data projects and writing about technology, politics, and whatever has been on my mind lately on [Substack](https://substack.com/@badreljaouhari).
 
 <div align="center"><img src="./assets/stargap.png" alt="Pixel stars divider" width="100%" /></div>
