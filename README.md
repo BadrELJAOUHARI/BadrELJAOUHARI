@@ -14,13 +14,13 @@
 
 ### 01 / hello
 
-Hey, I'm Badr. I studied international relations and slowly got pulled into statistics. I liked working with political data during my bachelor's, and I wanted to understand the methods properly. I haven't really left politics behind. I just spend a lot more time in R now. I'm originally from Morocco and currently based in Voorburg, near The Hague. I'm finishing an **MSc in Methodology, Statistics and Data Science at Utrecht University**, following the **European Master in Official Statistics (EMOS)** track. Most of my work lately involves missing data, statistical modelling, and finding out what happens when a method looks good on paper but less good in a simulation. Outside of that, I like maps, history, philosophy, writing, and the occasional game-design rabbit hole.
+Hey, I'm Badr. I studied international relations in my bachelor with a minor in data analytics and slowly got pulled into statistics. I liked working with political data during my bachelor's, and I wanted to understand the methods properly. I haven't really left politics behind. I just spend a lot more time in R Studio now. I'm originally from Morocco and currently based in Voorburg, near The Hague. I'm finishing a **MSc in Methodology, Statistics and Data Science at Utrecht University**, following the **European Master in Official Statistics (EMOS)** track.
 
 ### 02 / on my desk lately
 
 - **Master's thesis at Statistics Netherlands (CBS):** looking at machine-learning approaches to automatic editing of business survey data. I'm part of the Methodology Department in The Hague.
 - **Research at Utrecht University:** recently worked on multilevel missing-data methods, including a custom `mice` imputation function using `glmmTMB` and a simulation study of how it performs.
-- **After hours:** working on small data projects (like [theploynode](https://www.instagram.com/thepolynode/) and writing about technology, politics, and whatever has been on my mind lately on [Substack](https://substack.com/@badreljaouhari).
+- **After hours:** working on small data projects (like [theploynode](https://www.instagram.com/thepolynode/)) and writing about technology, politics, and whatever has been on my mind lately on [Substack](https://substack.com/@badreljaouhari).
 
 <div align="center"><img src="./assets/stargap.png" alt="Pixel stars divider" width="100%" /></div>
 
@@ -36,7 +36,7 @@ A few workplaces have also shaped how I think about data:
 
 - **Statistics Netherlands (CBS), 2026 to present.** Graduation intern in the Methodology Department, working on the use of machine learning in survey editing.
 - **Utrecht University, February to October 2026.** Research trainee with the Missing Data Group. Wrote R code and ran simulations comparing multilevel imputation methods.
-- **Joint Impact Model Foundation / FMO, March to September 2026.** Worked on impact analysis for partner banks in emerging markets, model testing, and the less glamorous but essential job of getting data and processes to behave.
+- **Joint Impact Model Foundation / FMO, March to September 2026.** Worked on impact analysis for partner banks in emerging markets and model testing.
 - **UCESA, 2024.** Worked on international partnerships, including the onboarding of five member states, and research into climate mobility in Africa.
 - **SNRT, 2023.** Helped review international partnership agreements and co-write the annual activity report.
 
