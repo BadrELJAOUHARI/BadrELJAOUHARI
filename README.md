@@ -13,17 +13,12 @@
 
 ### 01 / hello
 
-Hey, I'm Badr. I studied international relations and slowly got pulled into statistics. I liked working with political data during my bachelor's, and I wanted to understand the methods properly. I haven't really left politics behind. I just spend a lot more time in R now.
-
-I'm originally from Morocco and currently based in Voorburg, near The Hague. I'm finishing an **MSc in Methodology, Statistics and Data Science at Utrecht University**, following the **European Master in Official Statistics (EMOS)** track. Most of my work lately involves missing data, statistical modelling, and finding out what happens when a method looks good on paper but less good in a simulation.
-
-Outside of that, I like maps, history, philosophy, writing, and the occasional game-design rabbit hole.
+Hey, I'm Badr. I studied international relations and slowly got pulled into statistics. I liked working with political data during my bachelor's, and I wanted to understand the methods properly. I haven't really left politics behind. I just spend a lot more time in R now. I'm originally from Morocco and currently based in Voorburg, near The Hague. I'm finishing an **MSc in Methodology, Statistics and Data Science at Utrecht University**, following the **European Master in Official Statistics (EMOS)** track. Most of my work lately involves missing data, statistical modelling, and finding out what happens when a method looks good on paper but less good in a simulation. Outside of that, I like maps, history, philosophy, writing, and the occasional game-design rabbit hole.
 
 ### 02 / on my desk lately
 
 - **Master's thesis at Statistics Netherlands (CBS):** looking at machine-learning approaches to automatic editing of business survey data. I'm part of the Methodology Department in The Hague.
 - **Research at Utrecht University:** recently worked on multilevel missing-data methods, including a custom `mice` imputation function using `glmmTMB` and a simulation study of how it performs.
-- **Next, starting November 2026:** a research student-assistant role at Utrecht University, looking at mixed-language speech recognition.
 - **After hours:** working on small data projects and writing about technology, politics, and whatever has been on my mind lately on [Substack](https://substack.com/@badreljaouhari).
 
 <div align="center"><img src="./assets/stargap.png" alt="Pixel stars divider" width="100%" /></div>
@@ -53,9 +48,6 @@ A few things I've worked on. Some are full analyses; others started as experimen
 
 - [**Bayesian FIFA ranking analysis**](https://github.com/BadrELJAOUHARI/bayesian-fifa-ranking-analysis)  
   Bayesian regression on FIFA rankings and wins, with a Gibbs sampler written in R.
-
-- [**Missing household income in Europe**](https://github.com/BadrELJAOUHARI/ESS9-Household-Income-Multiple-Imputation)  
-  A group study using European Social Survey data, looking at survey weights and multiple imputation in five countries.
 
 - [**Five Minutes to Midnight**](https://github.com/BadrELJAOUHARI/5-Minutes-to-Midnight)  
   A Cold War strategy board-game design about influence, brinkmanship, and nuclear risk. A tabletop prototype, not a video game.
@@ -97,7 +89,7 @@ I like learning tools when a project actually gives me a reason to use them. The
 
 ### 07 / when I'm not in RStudio
 
-Usually reading something about politics or philosophy, trying to write, learning a language, playing tennis, swimming, or messing with a design idea in Blender. Arabic is my first language; I also speak English and French, and I'm learning Dutch and German. I also enjoy bringing people from different fields together. The Artscape club and the youth-policy work are probably the best examples of that.
+Usually reading something about politics or philosophy, trying to write, learning a language, playing tennis, swimming, or messing with a design idea in Blender. Arabic is my first language; I also speak English and French, and I'm learning Dutch and German.
 
 I write on [Substack](https://substack.com/@badreljaouhari) when I have an idea I want to explore beyond a figure or a regression table.
 
