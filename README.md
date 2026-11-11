@@ -7,7 +7,7 @@
   <p>
     <a href="https://www.linkedin.com/in/badr-el-jaouhari-94b517246/">LinkedIn</a> &nbsp;·&nbsp;
     <a href="https://substack.com/@badreljaouhari">Substack</a> &nbsp;·&nbsp;
-    <a href="https://github.com/BadrELJAOUHARI?tab=repositories">Repositories</a>
+    <a href="https://github.com/BadrELJAOUHARI?tab=repositories">Repositories</a> &nbsp;·&nbsp;
     <a href="https://www.instagram.com/thepolynode/">Computational Politics Project</a>
   </p>
 </div>
@@ -20,7 +20,7 @@ Hey, I'm Badr. I studied international relations and slowly got pulled into stat
 
 - **Master's thesis at Statistics Netherlands (CBS):** looking at machine-learning approaches to automatic editing of business survey data. I'm part of the Methodology Department in The Hague.
 - **Research at Utrecht University:** recently worked on multilevel missing-data methods, including a custom `mice` imputation function using `glmmTMB` and a simulation study of how it performs.
-- **After hours:** working on small data projects and writing about technology, politics, and whatever has been on my mind lately on [Substack](https://substack.com/@badreljaouhari).
+- **After hours:** working on small data projects (like [theploynode](https://www.instagram.com/thepolynode/) and writing about technology, politics, and whatever has been on my mind lately on [Substack](https://substack.com/@badreljaouhari).
 
 <div align="center"><img src="./assets/stargap.png" alt="Pixel stars divider" width="100%" /></div>
 
