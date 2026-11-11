@@ -8,6 +8,7 @@
     <a href="https://www.linkedin.com/in/badr-el-jaouhari-94b517246/">LinkedIn</a> &nbsp;·&nbsp;
     <a href="https://substack.com/@badreljaouhari">Substack</a> &nbsp;·&nbsp;
     <a href="https://github.com/BadrELJAOUHARI?tab=repositories">Repositories</a>
+    <a href="https://www.instagram.com/thepolynode/">Computational Politics Project</a>
   </p>
 </div>
 
